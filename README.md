@@ -1,4 +1,4 @@
-# Coin Flip Simulation
+# 🪙 Coin Flip Simulation
 
 [Click here to try the Coin Flip Simulation](https://coin-flip-simulation.onrender.com)
 
