@@ -12,9 +12,9 @@ The app simulates flipping a coin multiple times using a random number generator
 
 ### Detailed Explanation
 
-1. **Random Number Generation**: For each coin flip, the app generates a random number. If the number is within a certain range, it is considered a "heads"; otherwise, it's a "tails".
-2. **Memory Management**: The app efficiently manages memory to handle large numbers of flips. Arrays are used to store the results, and as more flips are performed, the array dynamically resizes to accommodate the data.
-3. **Displaying Results**: After all flips are completed, the results are displayed, showing the distribution of heads and tails. This visual representation helps users understand the randomness and probability involved.
+1. **Random Number Generation**: For each coin flip, the app generates a random number. If the number is within a certain range[0 and 1] , it is considered a "heads"; otherwise, it's a "tails".
+
+2. **Displaying Results**: After all flips are completed, the results are displayed, showing the distribution of heads and tails. This visual representation helps users understand the randomness and probability involved.
 
 ## Why I Created This
 
