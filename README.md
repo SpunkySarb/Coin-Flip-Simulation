@@ -18,7 +18,7 @@ The app simulates flipping a coin multiple times using a random number generator
 
 ## Why I Created This
 
-I was inspired by a video of Neil Ashton Gossam, where he mentioned an experiment involving flipping a coin a thousand times. In the experiment, if a thousand people each flip a coin, those who get tails have to sit down. This process is repeated ten times, and theoretically, one person should be left standing at the end. However, this seemed to contradict probability laws, so I decided to create this simulation to test the hypothesis.
+I was inspired by a video of Neil Degrasse , where he mentioned an experiment involving flipping a coin a thousand times. In the experiment, if a thousand people each flip a coin, those who get tails have to sit down. This process is repeated ten times, and theoretically, one person should be left standing at the end. However, this seemed to contradict probability laws, so I decided to create this simulation to test the hypothesis.
 
 ### Experiment Findings
 
